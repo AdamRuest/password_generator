@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <title>En exécution...</title>
+    <link rel="stylesheet" href="app.css" type="text/css" />
+    <script type="text/javascript" src="biblio.js"></script>
+    <script type="text/javascript">
+        function executer()
+        {
+            var script = document.createElement('script');
+            script.onload = function ()
+            {
+                try
+                {
+                    Programme.BiblioImpl.On();
+                    Programme.main();
+                    Programme.BiblioImpl.Off();
+                    document.title = "Résultat";
+                }
+                catch (messageErreur)
+                {
+                    Programme.EcrireErreur(messageErreur);
+                    document.title = "Erreur";
+                }
+            };
+            // L'utilisation d'une var GUID permet de contourner le cache et de s'assurer que le script se recharge à chaque fois.
+            script.src = "main.js?ver=" + Programme.GUID();
+            document.head.appendChild(script);
+        }
+    </script>
+</head>
+<body onload="executer();">
+    <div id="output">
+        <div id="cout"></div>
+    </div>
+</body>
+</html>

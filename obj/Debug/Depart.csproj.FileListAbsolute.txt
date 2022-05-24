@@ -1,0 +1,28 @@
+C:\Users\dany.lamontagne\Documents\Cegep\A21\420-125-RK\Env\Depart\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\dany.lamontagne\Documents\Cegep\A21\420-125-RK\Env\Depart\bin\TypeScriptHTMLApp1.dll
+C:\Users\dany.lamontagne\Documents\Cegep\A21\420-125-RK\Env\Depart\bin\TypeScriptHTMLApp1.pdb
+C:\Users\dany.lamontagne\Documents\Cegep\A21\420-125-RK\Env\Depart\obj\Debug\Depart.csprojAssemblyReference.cache
+C:\Users\dany.lamontagne\Documents\Cegep\A21\420-125-RK\Env\Depart\obj\Debug\Depart.csproj.CoreCompileInputs.cache
+C:\Users\dany.lamontagne\Documents\Cegep\A21\420-125-RK\Env\Depart\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\dany.lamontagne\Documents\Cegep\A21\420-125-RK\Env\Depart\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Depart\Depart\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Depart\Depart\bin\TypeScriptHTMLApp1.dll
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Depart\Depart\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Depart\Depart\obj\Debug\Depart.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Depart\Depart\obj\Debug\Depart.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Depart\Depart\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Depart\Depart\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Labo #8\Depart\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Labo #8\Depart\bin\TypeScriptHTMLApp1.dll
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Labo #8\Depart\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Labo #8\Depart\obj\Debug\Depart.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Labo #8\Depart\obj\Debug\Depart.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Labo #8\Depart\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Etudiant\Desktop\Codes\TypeScript\Labo #8\Depart\obj\Debug\TypeScriptHTMLApp1.pdb
+C:\Users\Etudiant\Desktop\Codes\TypeScript\TP #2\Depart\bin\TypeScriptHTMLApp1.dll.config
+C:\Users\Etudiant\Desktop\Codes\TypeScript\TP #2\Depart\bin\TypeScriptHTMLApp1.dll
+C:\Users\Etudiant\Desktop\Codes\TypeScript\TP #2\Depart\bin\TypeScriptHTMLApp1.pdb
+C:\Users\Etudiant\Desktop\Codes\TypeScript\TP #2\Depart\obj\Debug\Depart.csproj.AssemblyReference.cache
+C:\Users\Etudiant\Desktop\Codes\TypeScript\TP #2\Depart\obj\Debug\Depart.csproj.CoreCompileInputs.cache
+C:\Users\Etudiant\Desktop\Codes\TypeScript\TP #2\Depart\obj\Debug\TypeScriptHTMLApp1.dll
+C:\Users\Etudiant\Desktop\Codes\TypeScript\TP #2\Depart\obj\Debug\TypeScriptHTMLApp1.pdb

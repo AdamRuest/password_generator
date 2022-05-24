@@ -1,0 +1,69 @@
+﻿body {
+    font-family: Helvetica, Arial, sans-serif;
+    background-color: #FFF9E5;
+    font-size: 1.05em;
+}
+
+#output {
+    float: left;
+    width: 100%;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 1em;
+}
+
+.titre {
+    float: left;
+    clear: both;
+}
+
+#cout {
+    clear: both;
+    unicode-bidi: embed;
+    font-family: Consolas, "Lucida Console", Monaco, monospace;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+    background-color: #FEFEFE;
+    color: #000000;
+    overflow: auto;
+    min-height: 500px;
+    height: auto;
+    border-color: #000000;
+    border-style: solid;
+    border-width: thin;
+    margin: 0;
+}
+
+.bouton {
+    float: right;
+    clear: left;
+    padding: 0.3em;
+    margin: 0.25em;
+    box-shadow: inset 0px 1px 0px 0px #dcecfb;
+    background: linear-gradient(to bottom, #bddbfa 5%, #80b5ea 100%);
+    background-color: #bddbfa;
+    border-radius: 60px;
+    border: 1px outset #77B6F4;
+    display: inline-block;
+    cursor: pointer;
+    color: #000000;
+    padding: 6px 24px;
+    text-decoration: none;
+    text-shadow: 0px 1px 0px #ffffff;
+}
+
+.bouton:hover {
+    background: linear-gradient(to bottom, #fb9e25 5%, #ffc477 100%);
+    background-color: #fb9e25;
+    transform: scale(1.05);
+}
+
+.bouton:active {
+    transform: scale(0.95);
+}
+
+.canvas_image {
+    float: left;
+    clear: both;
+    border: thin dotted lightgray;
+}
